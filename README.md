@@ -4,7 +4,7 @@ This project looked at safety as a metric.  The best neighborhood in Pittsburgh 
 
 #### By:
 * Ari Seymour (ars311@pitt.edu) - worked on premature.ipynb
-* David Poling (EMAIL) - worked on gun_seizures.ipynb
+* David Poling (dap180@pitt.edu) - worked on gun_seizures.ipynb
 * Trent Foster (trf23@pitt.edu) - worked on Fires.ipynb
 
 
@@ -19,3 +19,11 @@ This dataset shows various fire incidents based on: neighborhood, type of fire, 
  https://data.wprdc.org/dataset/ee735209-4de7-4ea4-b446-bf0f0f6d9cb3/resource/c2e1500a-a12a-4e91-be94-76c6a892b7e2/download
  
  This dataset shows the median age of death by City of Pittsburgh neighborhood from 2011-2015.  It was used to see where premature deaths are concentrated in the city.
+
+### firearmdata.csv
+
+This dataset shows the number and type of firearms seized in Pittsburgh over the previous few years.
+
+### arrest-data.csv
+
+This dataset has entries comprising of arrests in Pittsburgh over the previous few years, along with information like offender description, location, and offense.
